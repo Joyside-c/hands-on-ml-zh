@@ -68,4 +68,6 @@ ApacheCN 纯粹出于学习目的与个人兴趣翻译本书，不追求任何�
 
 ## 赞助我们
 
-<img src="http://www.apachecn.org/img/about/donate.jpg" alt="微信&支付宝" />
+
+<img src="https://note.youdao.com/yws/public/resource/61fcf71584c69fb8d3fbb303ead8afe2/xmlnote/49B8B0E9EF4142F1B3702770BB8C2F6D/12246" alt="支付宝" />
+
